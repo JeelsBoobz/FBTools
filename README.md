@@ -1,7 +1,6 @@
 # FBTools
 Ini hanya sekumpulan Tools Facebook.<br>
-List Tools:<br>
-<ol>
+<ol>List Tools:
   <li>Auto Follow</li>
   <li>Auto Pokes</li>
   <li>Bot Status Motivasi</li>
