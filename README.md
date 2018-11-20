@@ -11,6 +11,7 @@ List Tools:
   <li>Unfollow</li>
   <li>Delete Foto</li>
   <li>Untag All Foto</li>
+  <li>Profile Guard</li>
 </ol>
 
 Untuk harga lisensi sendiri akan dikenakan <strong>Rp 10000</strong> via pulsa <strong>3 (Tri)</strong><br>
