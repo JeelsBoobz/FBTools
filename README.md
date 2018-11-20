@@ -1,11 +1,13 @@
 # FBTools
 Ini hanya sekumpulan Tools Facebook.<br>
 List Tools:<br>
-<ul>Auto Follow</ul>
-<ul>Auto Pokes</ul>
-<ul>Bot Status Motivasi</ul>
-<ul>Bot Reactions</ul>
-<ul>Unfollow</ul>
+<ol>
+  <li>Auto Follow</li>
+  <li>Auto Pokes</li>
+  <li>Bot Status Motivasi</li>
+  <li>Bot Reactions</li>
+  <li>Unfollow</li>
+</ol>
 
 Untuk harga lisensi sendiri akan dikenakan <strong>Rp 25000</strong> via pulsa <strong>3 (Tri)</strong><br>
 <br>
